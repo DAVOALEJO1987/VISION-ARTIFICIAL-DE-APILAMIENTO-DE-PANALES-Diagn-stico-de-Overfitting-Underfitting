@@ -3,6 +3,9 @@
 
 ## ⚙️ Pipeline de Trabajo
 
+<img width="634" height="1029" alt="image" src="https://github.com/user-attachments/assets/08123bc5-a616-4c80-9ec6-43f8fdadd528" />
+
+
 ### 1. Montaje de Drive y Preparación de Carpetas
 - Se crean automáticamente las carpetas necesarias.
 - Se cargan las imágenes en la carpeta `data/`.
